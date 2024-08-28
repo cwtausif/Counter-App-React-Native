@@ -3,6 +3,12 @@
 
 A simple React Native application to increment and reset a counter. The app includes basic functionality to increment the counter and reset it, with visual feedback through color and vibration.
 
+## Screenshot
+
+Here is a screenshot of the Counter App:
+
+![Screenshot](https://github.com/cwtausif/Counter-App-React-Native/blob/main/Screenshot.png)
+
 ## Features
 
 - Increment counter with a button
