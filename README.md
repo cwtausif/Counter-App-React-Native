@@ -7,7 +7,7 @@ A simple React Native application to increment and reset a counter. The app incl
 
 Here is a screenshot of the Counter App:
 
-![Screenshot](https://raw.githubusercontent.com/cwtausif/Counter-App-React-Native/main/Screenshot.png)
+![Screenshot](https://github.com/cwtausif/Counter-App-React-Native/blob/main/Screenshot.png)
 
 ## Features
 
